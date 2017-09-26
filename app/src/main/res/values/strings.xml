@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SeachMan</string>
+    <string-array name="list_item">
+        <item>张飞</item>
+        <item>诸葛亮</item>
+        <item>关羽</item>
+        <item>赵丽颖</item>
+        <item>范冰冰</item>
+        <item>韩信</item>
+        <item>唐嫣</item>
+        <item>罗晋</item>
+        <item>温航</item>
+        <item>白飞飞</item>
+        <item>阿悄</item>
+        <item>张乐乐</item>
+        <item>韩颖</item>
+        <item>胡润生</item>
+        <item>马平安</item>
+        <item>张璇</item>
+        <item>刘健</item>
+        <item>半山</item>
+        <item>尹浩</item>
+        <item>韩真诚</item>
+        <item>王鹏</item>
+        <item>程倩</item>
+        <item>龚梦朝</item>
+        <item>胡雅丽</item>
+        <item>马春燕</item>
+        <item>姚向</item>
+        <item>侯红光</item>
+        <item>李翔</item>
+        <item>孙栋</item>
+        <item>于成龙</item>
+
+    </string-array>
+</resources>
